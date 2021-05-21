@@ -185,7 +185,7 @@ body {
 
 .chat .content .message-content .message .bubble {
     padding: 6px 12px;
-    background: #e0d6d6;
+    background: #dbdada;
     border-radius: 20px;
     font-size: 15px;
     margin-bottom: 5px;
@@ -202,7 +202,7 @@ body {
 
 .chat .content .message-content .message.me .bubble {
     background: #2196f3;
-    color: #fff;
+    color: #fff;        
 }
 
 .chat .content .message-content .message.me .time {
